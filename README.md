@@ -1,1 +1,0 @@
-# AYUSH_JS_Lab2
